@@ -29,14 +29,14 @@ This project includes:
 
 ## 📌 Installation & Setup
 ### 🔹 **1. Clone the Repository**
--**bash**
--**git clone https://github.com/Ruthvik14/Heart_Failure_Prediction.git**
--**cd Heart_Failure_Prediction**
+- **bash**
+- **git clone https://github.com/Ruthvik14/Heart_Failure_Prediction.git**
+- **cd Heart_Failure_Prediction**
 
 ### 🔹 **2. Create a Virtual Environment**
--**python -m venv venv**
--**source venv/bin/activate**
--**venv\Scripts\activate**
+- **python -m venv venv**
+- **source venv/bin/activate**
+- **venv\Scripts\activate**
 
  ### 🔹 **3. Install Dependencies**
 **pip install -r requirements.txt**
