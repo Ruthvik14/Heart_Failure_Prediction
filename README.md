@@ -35,7 +35,6 @@ This project includes:
 
 ### 🔹 **2. Create a Virtual Environment**
 **python -m venv venv**
-For Mac/Linux
 **source venv/bin/activate **
 **venv\Scripts\activate**
 
