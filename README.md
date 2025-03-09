@@ -33,13 +33,13 @@ bash
 git clone https://github.com/Ruthvik14/Heart_Failure_Prediction.git
 cd Heart_Failure_Prediction
 
-### 🔹 **2. Create a Virtual Environment
-   python -m venv venv
+### 🔹 **2. Create a Virtual Environment**
+python -m venv venv
 source venv/bin/activate   # For Mac/Linux
 venv\Scripts\activate
 
- ### 🔹 **3. Install Dependencies
+ ### 🔹 **3. Install Dependencies**
 pip install -r requirements.txt
 
-### 🔹 **4. Train the Model & Save Artifacts
+### 🔹 **4. Train the Model & Save Artifacts**
 python train_model.py
